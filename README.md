@@ -1,2 +1,2 @@
-# Tugas1
-PemrogramanIV
+# Tugas1 PemrogramanIV
+Duny Muhamad Firmansyah (0619203001)
